@@ -1,0 +1,8 @@
+.home { max-width:1100px; margin:0 auto; padding:1rem }
+.home__header { text-align:center; margin-bottom:1rem }
+.home__title { margin:0; font-size:1.6rem }
+.home__subtitle { margin:0.25rem 0 1rem 0; color:#666 }
+.home__ad { margin:0.75rem 0 }
+.home__list { margin-top:1rem }
+
+@media (max-width:520px) { .home { padding:0.75rem } .home__title { font-size:1.25rem } }
